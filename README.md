@@ -16,7 +16,7 @@ Built using **HTML**, **CSS**, and **JavaScript** — featuring task filtering, 
 
 ## 💻 Demo
 You can try the live version here:  
-👉 https://du3a5.github.io/Modern-To-Do-List/
+👉  https://du3a5.github.io/Modern-To-Do-List/
 
 ----
 
